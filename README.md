@@ -11,3 +11,5 @@ It's hard to control it smoothly
 Improvments:
 
 1.Processing frequency of Arduino
+![](https://github.com/Bjersgen/Simplefoc/blob/main/STM32H7_FOC/image/19.png)
+![](https://github.com/Bjersgen/Simplefoc/blob/main/STM32H7_FOC/image/19.png)
