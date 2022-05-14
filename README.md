@@ -12,6 +12,6 @@ Improvments:
 
 1.Processing frequency of Arduino
 
-
+------------------------------------------------------------------------
 ![](https://github.com/Bjersgen/Juggler/blob/main/data/1.png)
-![](https://github.com/Bjersgen/Juggler/blob/main/data/2.png)
+![](https://github.com/Bjersgen/Juggler/blob/main/data/2.jpg)
